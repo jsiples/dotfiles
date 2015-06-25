@@ -1,0 +1,62 @@
+! General URxvt preferences
+URxvt*loginShell:true
+URxvt*transparent:true
+URxvt*shading:60
+URxvt*background:Black
+URxvt*foreground:White
+URxvt*scrollBar:false
+URxvt*scrollBar_right:true
+URxvt*transpscrollbar:true
+URxvt*saveLines:32767
+URxvt*urgentOnBell: True
+URxvt*visualBell: False
+URxvt*skipScroll: True
+URxvt*cursorUnderline: True
+URxvt*letterSpace: -2
+
+! Extensions
+URxvt*perl-lib:        /usr/lib/urxvt/perl/
+URxvt*perl-ext-common: default,matcher,searchable-scrollback
+URxvt*urlLauncher:     /usr/bin/firefox
+URxvt*matcher.button:  1
+
+! Fonts
+URxvt.font:xft:DroidSansMono:pixelsize=9
+URxvt.boldFont:xft:DroidSansMono:pixelsize=9
+
+! Xft
+Xft.dpi: 96
+Xft.antialias: true
+Xft.rgba: rgb
+Xft.hinting: true
+Xft.hintstyle: hintslight
+
+! terminal colors ------------------------------------------------------------
+
+*background: #000000
+*foreground: #FFFFFF
+
+! Black (not tango) + DarkGrey
+*color0:  #000000
+*color8:  #686868
+! DarkRed + Red
+*color1:  #FC3F43
+*color9:  #FF6F6B
+! DarkGreen + Green
+*color2:  #00C120
+*color10: #67F86F
+! DarkYellow + Yellow
+*color3:  #C7C327
+*color11: #FFFA72
+! DarkBlue + Blue
+*color4:  #0E90FC
+*color12: #56D2FD
+! DarkMangenta + Mangenta
+*color5:  #C839C5
+*color13: #FF7CFD
+!DarkCyan + Cyan
+*color6:  #01C5C6
+*color14: #68FDFE
+! LightGrey + White
+*color7:  #C7C7C7
+*color15: #FFFFFF
