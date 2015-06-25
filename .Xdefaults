@@ -1,9 +1,5 @@
 ! General URxvt preferences
 URxvt*loginShell:true
-URxvt*transparent:true
-URxvt*shading:60
-URxvt*background:Black
-URxvt*foreground:White
 URxvt*scrollBar:false
 URxvt*scrollBar_right:true
 URxvt*transpscrollbar:true
@@ -13,6 +9,7 @@ URxvt*visualBell: False
 URxvt*skipScroll: True
 URxvt*cursorUnderline: True
 URxvt*letterSpace: -2
+URxvt*depth: 32
 
 ! Extensions
 URxvt*perl-lib:        /usr/lib/urxvt/perl/
@@ -33,10 +30,12 @@ Xft.hintstyle: hintslight
 
 ! terminal colors ------------------------------------------------------------
 
-*background: #000000
-*foreground: #FFFFFF
+!*background: #000000 + transparency
+!*foreground: #FFFFFF
+URxvt*background: [85]#000000
+URxvt*foreground: #FFFFFF
 
-! Black (not tango) + DarkGrey
+! Black + DarkGrey
 *color0:  #000000
 *color8:  #686868
 ! DarkRed + Red
