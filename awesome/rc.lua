@@ -11,6 +11,8 @@ local beautiful = require("beautiful")
 local naughty = require("naughty")
 local menubar = require("menubar")
 
+local vicious = require("vicious")
+
 -- Load Debian menu entries
 require("debian.menu")
 
@@ -120,6 +122,26 @@ menubar.utils.terminal = terminal -- Set the terminal for applications that requ
 -- {{{ Wibox
 -- Create a textclock widget
 mytextclock = awful.widget.textclock()
+
+-- {{{ Cmus info
+musicicon = wibox.widget.imagebox()
+musicicon:set_image(beautiful.widget_music)
+-- Initialize widget
+cmus_widget = wibox.widget.textbox()
+-- Register widget
+vicious.register(cmus_widget, vicious.widgets.cmus,
+    function (widget, args)
+        if args["{status}"] == "Stopped" then 
+            return "Stopped"
+        elseif args["{status}"] == "Paused" then
+            return "Paused"
+        elseif args["{status}"] == "Playing" then
+            return args["{artist}"] .. ' - ' .. args["{title}"]
+        else
+            return "Nothing Playing"
+        end
+    end, 7)
+--}}}
 
 -- Memory Usage Widget
 memorywidget_icon       = wibox.widget.imagebox()
@@ -300,6 +322,7 @@ for s = 1, screen.count() do
 
     -- Widgets that are aligned to the right
     local right_layout = wibox.layout.fixed.horizontal()
+    right_layout:add(cmus_widget)
     right_layout:add(cpuloadwidget_icon_m)
     right_layout:add(cpuloadwidget)
     right_layout:add(memorywidget_icon_m)
