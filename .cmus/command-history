@@ -1,2 +1,4 @@
+set output_plugin=alsa
+set output_plugin=equal
 save
 q

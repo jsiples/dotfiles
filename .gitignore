@@ -1,2 +1,4 @@
 .cmus/cache
 .cmus/socket
+.cmus/command-history
+.cmus/search-history
