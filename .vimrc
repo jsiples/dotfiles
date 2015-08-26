@@ -1,27 +1,35 @@
-#!bash
-syntax enable
+runtime plugin/supertab.vim
+runtime plugin/fugitive.vim
+runtime plugin/airline.vim
+
+syntax on
+filetype indent on
+filetype plugin on
+
+" editor
 set ruler
-set autoindent
-set smartindent
-set tabstop=4
-set shiftwidth=4
-set expandtab
-set background=dark
 set nohlsearch
 set number
 set title
-filetype indent on
+set backspace=indent,eol,start
+set scrolloff=5
+set showcmd
+set laststatus=2
 
-au BufReadPost *.tmpl set syntax=html
-au BufReadPost *.tpl set syntax=html
+" indentation
+set autoindent
+set smartindent
+set tabstop=4
+set softtabstop=4
+set shiftwidth=4
+set expandtab
 
-autocmd BufWritePre *.py :%s/\s\+$//e
-au BufEnter,BufRead *.py setlocal smartindent cinwords=if,elif,else,for,while,try,except,finally,def,class,with
-au BufRead,BufNewFile *.py  set textwidth=79
-
+" colors
 set background=dark
 let g:solarized_termtrans=1
 let g:solarized_termcolors=256
 let g:solarized_contrast="high"
 let g:solarized_visibility="high"
 
+set omnifunc=syntaxcomplete#Complete
+let g:SuperTabDefaultCompletionType = "<C-X><C-O>" 
