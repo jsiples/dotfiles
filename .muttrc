@@ -1,0 +1,37 @@
+set from        = 'jsiples@gmail.com'
+set realname    = 'Justin Siples'
+set imap_user   = 'jsiples@gmail.com'
+set imap_pass   = "`pass gmail`"
+unset imap_passive
+
+# REMOTE GMAIL FOLDERS
+set folder      = 'imaps://imap.gmail.com:993'
+set spoolfile   = '+INBOX'
+set postponed   ='+[Google Mail]/Drafts'
+set trash       = '+[Google Mail]/Trash'
+
+# LOCAL FOLDERS FOR CACHED HEADERS AND CERTIFICATES
+set header_cache        =~/.mutt/cache/headers
+set message_cachedir    =~/.mutt/cache/bodies
+set certificate_file    =~/.mutt/certificates
+
+# SMTP SETTINGS
+set smtp_url    = 'smtp://jsiples@smtp.gmail.com:587/'
+set smtp_pass   = "`pass gmail`"
+
+# SECURING
+set move = no  #Stop asking to move read messages to mbox!
+set imap_keepalive = 900
+
+# FIX SORTING
+set sort = 'threads'
+set sort_aux = 'reverse-date-received'
+
+# POLL MAILBOXES
+set imap_check_subscribed
+set mail_check = 60
+set timeout = 10
+
+# COLORS
+color status blue default
+color indicator black green
