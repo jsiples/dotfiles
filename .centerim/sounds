@@ -10,7 +10,7 @@
 # <event>	can be: msg, sms, url, online, offline, email
 # <command>	command line to be executed to play a sound
 
-*	msg	aplay ~/Sounds/alert-01.wav
+*	msg	aplay ~/Sounds/alert-06.wav
 *	url	aplay /usr/share/centerim/url.wav
 *	email	aplay /usr/share/centerim/email.wav
 #*	online	aplay /usr/share/centerim/online.wav

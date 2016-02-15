@@ -6,8 +6,8 @@ theme = {}
 
 theme.font          = "sans 8"
 
-theme.bg_normal     = "#222222"
-theme.bg_focus      = "#535d6c"
+theme.bg_normal     = "#22222290"
+theme.bg_focus      = "#8CBECF40"
 theme.bg_urgent     = "#ff0000"
 theme.bg_minimize   = "#444444"
 
@@ -17,7 +17,7 @@ theme.fg_urgent     = "#ffffff"
 theme.fg_minimize   = "#ffffff"
 
 theme.border_width  = "1"
-theme.border_normal = "#535D6C"
+theme.border_normal = "#638894"
 theme.border_focus  = "#EEEEEE"
 theme.border_marked = "#91231C"
 
@@ -41,6 +41,9 @@ theme.tasklist_floating_icon = "/usr/share/awesome/themes/default/tasklist/float
 -- menu_[bg|fg]_[normal|focus]
 -- menu_[border_color|border_width]
 theme.menu_submenu_icon = "~/.config/awesome/themes/siples/arrow.png"
+theme.menu_bg_normal = "#22222295"
+theme.menu_bg_focus = "#8CBECF80"
+theme.menu_fg_focus = "#FFFFFF"
 theme.menu_height = "15"
 theme.menu_width  = "100"
 

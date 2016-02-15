@@ -392,6 +392,30 @@
 /home/jsiples/Music/TAKING BACK SUNDAY - DISCOGRAPHY (2001-14) [CHANNEL NEO]/[2011] Taking Back Sunday/09 - Since You're Gone.mp3
 /home/jsiples/Music/TAKING BACK SUNDAY - DISCOGRAPHY (2001-14) [CHANNEL NEO]/[2011] Taking Back Sunday/10 - You Got Me.mp3
 /home/jsiples/Music/TAKING BACK SUNDAY - DISCOGRAPHY (2001-14) [CHANNEL NEO]/[2011] Taking Back Sunday/11 - Call Me In The Morning.mp3
+/home/jsiples/Music/Triptides - Predictions/Another Shore.mp3
+/home/jsiples/Music/Triptides - Predictions/Can You See Me.mp3
+/home/jsiples/Music/Triptides - Predictions/Couch Surfer.mp3
+/home/jsiples/Music/Triptides - Predictions/Lucidly Dreaming.mp3
+/home/jsiples/Music/Triptides - Predictions/My Love.mp3
+/home/jsiples/Music/Triptides - Predictions/Mystery.mp3
+/home/jsiples/Music/Triptides - Predictions/Night Owl.mp3
+/home/jsiples/Music/Triptides - Predictions/Prediction.mp3
+/home/jsiples/Music/Triptides - Predictions/Set You Free.mp3
+/home/jsiples/Music/Triptides - Predictions/Sundown.mp3
+/home/jsiples/Music/Triptides - Predictions/Tapestry.mp3
+/home/jsiples/Music/Triptides - Predictions/Visions.mp3
+/home/jsiples/Music/Triptides - Sun Pavillion/20,000 Leagues.mp3
+/home/jsiples/Music/Triptides - Sun Pavillion/Bright Sky.mp3
+/home/jsiples/Music/Triptides - Sun Pavillion/English Rain.mp3
+/home/jsiples/Music/Triptides - Sun Pavillion/Graveyard.mp3
+/home/jsiples/Music/Triptides - Sun Pavillion/Morning Dew.mp3
+/home/jsiples/Music/Triptides - Sun Pavillion/Need You.mp3
+/home/jsiples/Music/Triptides - Sun Pavillion/Overboard.mp3
+/home/jsiples/Music/Triptides - Sun Pavillion/Shark Attack.mp3
+/home/jsiples/Music/Triptides - Sun Pavillion/Silhouette.mp3
+/home/jsiples/Music/Triptides - Sun Pavillion/SunShine.mp3
+/home/jsiples/Music/Triptides - Sun Pavillion/Undone.mp3
+/home/jsiples/Music/Triptides - Sun Pavillion/Voices.mp3
 /home/jsiples/Music/Tycho/Adrift From Home (2008)/01 Adrift.mp3
 /home/jsiples/Music/Tycho/Adrift From Home (2008)/02 From Home.mp3
 /home/jsiples/Music/Tycho/Coastal Brake (2009)/WAV - Uncompressed/01 - Tycho - Coastal Brake.wav
@@ -4704,6 +4728,39 @@
 /home/jsiples/Music/Bonnie Tyler/Billboard Hot 100 Singles 1983/06 Total Eclipse Of The Heart.mp3
 /home/jsiples/Music/Bonnie Tylor/Billboard Sampler/05 Total Eclipse of the Heart.mp3
 /home/jsiples/Music/Bonny Cepeda/Merengue '96 En La Calle 8/10 Las Mujeres Que Quieran Bailar.mp3
+/home/jsiples/Music/Bonobo - Black Sands [mp3-320-2010]/01 - Prelude.mp3
+/home/jsiples/Music/Bonobo - Black Sands [mp3-320-2010]/02 - Kiara.mp3
+/home/jsiples/Music/Bonobo - Black Sands [mp3-320-2010]/03 - Kong.mp3
+/home/jsiples/Music/Bonobo - Black Sands [mp3-320-2010]/04 - Eyesdown Featuring Andreya Triana.mp3
+/home/jsiples/Music/Bonobo - Black Sands [mp3-320-2010]/05 - El Toro.mp3
+/home/jsiples/Music/Bonobo - Black Sands [mp3-320-2010]/06 - We Could Forever.mp3
+/home/jsiples/Music/Bonobo - Black Sands [mp3-320-2010]/07 - 1009.mp3
+/home/jsiples/Music/Bonobo - Black Sands [mp3-320-2010]/08 - All In Forms.mp3
+/home/jsiples/Music/Bonobo - Black Sands [mp3-320-2010]/09 - The Keeper Featuring Andreya Triana.mp3
+/home/jsiples/Music/Bonobo - Black Sands [mp3-320-2010]/10 - Stay The Same Featuring Andreya Triana.mp3
+/home/jsiples/Music/Bonobo - Black Sands [mp3-320-2010]/11 - Animals.mp3
+/home/jsiples/Music/Bonobo - Black Sands [mp3-320-2010]/12 - Black Sands.mp3
+/home/jsiples/Music/Bonobo - Late Night Tales (2013) MP3/01 - Dustin O'Halloran - An Ending, A Beginning.mp3
+/home/jsiples/Music/Bonobo - Late Night Tales (2013) MP3/02 - Khruang Bin - A Calf is Born in Winter.mp3
+/home/jsiples/Music/Bonobo - Late Night Tales (2013) MP3/03 - Bonobo - Get Thy Bearings.mp3
+/home/jsiples/Music/Bonobo - Late Night Tales (2013) MP3/04 - Darondo - Didn’t I.mp3
+/home/jsiples/Music/Bonobo - Late Night Tales (2013) MP3/05 - Nina Simone - Baltimore.mp3
+/home/jsiples/Music/Bonobo - Late Night Tales (2013) MP3/06 - Hypnotic Brass Ensemble - Flipside.mp3
+/home/jsiples/Music/Bonobo - Late Night Tales (2013) MP3/07 - Menahan Street Band - The Traitor.mp3
+/home/jsiples/Music/Bonobo - Late Night Tales (2013) MP3/08 - Andrew Ashong - Flowers.mp3
+/home/jsiples/Music/Bonobo - Late Night Tales (2013) MP3/09 - Romare - Down The Line (It Takes A Number).mp3
+/home/jsiples/Music/Bonobo - Late Night Tales (2013) MP3/10 - Shlohmo - Places.mp3
+/home/jsiples/Music/Bonobo - Late Night Tales (2013) MP3/11 - Lapalux - Gutter Glitter.mp3
+/home/jsiples/Music/Bonobo - Late Night Tales (2013) MP3/12 - The Invisible - Wing (Floating Points Mix).mp3
+/home/jsiples/Music/Bonobo - Late Night Tales (2013) MP3/13 - Badbadnotgood - Hedron.mp3
+/home/jsiples/Music/Bonobo - Late Night Tales (2013) MP3/14 - Mathew Bourne - Montauk Variations_IIV. Juliet.mp3
+/home/jsiples/Music/Bonobo - Late Night Tales (2013) MP3/15 - Airhead - South Congress.mp3
+/home/jsiples/Music/Bonobo - Late Night Tales (2013) MP3/16 - Matthew Halsall - Sailing Out To Sea.mp3
+/home/jsiples/Music/Bonobo - Late Night Tales (2013) MP3/17 - Dorothy Ashby - Essence Of Sapphire.mp3
+/home/jsiples/Music/Bonobo - Late Night Tales (2013) MP3/18 - Peter And Kerry - One Thing.mp3
+/home/jsiples/Music/Bonobo - Late Night Tales (2013) MP3/19 - Eddi Front - Gigantic.mp3
+/home/jsiples/Music/Bonobo - Late Night Tales (2013) MP3/20 - Bill Evans - Peace Piece.mp3
+/home/jsiples/Music/Bonobo - Late Night Tales (2013) MP3/21 - Benedict Cumberbatch - Flat Of Angles Part 3.mp3
 /home/jsiples/Music/Booker T. And Mg's/Radio Essentials Series Disc 02/06 Green Onions.mp3
 /home/jsiples/Music/Booker T and the MG's/Unknown Album/Green Onions.mp3
 /home/jsiples/Music/Booker T and the MG's/Billboard Hot 100 Singles 1962/53 Green Onions.mp3
@@ -5655,6 +5712,14 @@
 /home/jsiples/Music/Cat Stevens/Unknown Album/Another Saturday Night.mp3
 /home/jsiples/Music/Cat Stevens/Unknown Album/Peace Train.mp3
 /home/jsiples/Music/Cat Stevens/Unknown Album/Wild World.mp3
+/home/jsiples/Music/Cayucas - Bigfoot/01 - Cayucos.mp3
+/home/jsiples/Music/Cayucas - Bigfoot/02 - High School Lover.mp3
+/home/jsiples/Music/Cayucas - Bigfoot/03 - Will The Thrill.mp3
+/home/jsiples/Music/Cayucas - Bigfoot/04 - A Summer Thing.mp3
+/home/jsiples/Music/Cayucas - Bigfoot/05 - East Coast Girl.mp3
+/home/jsiples/Music/Cayucas - Bigfoot/06 - Deep Sea.mp3
+/home/jsiples/Music/Cayucas - Bigfoot/07 - Ayawa 'kya.mp3
+/home/jsiples/Music/Cayucas - Bigfoot/08 - Bigfoot.mp3
 /home/jsiples/Music/Future Trance Vol.63 (2013)/104_cc.k_meets_scoon_and_delore_-_in_the_end_(sandd_mix).mp3
 /home/jsiples/Music/C & C Music Factory/Dance Mix USA/02 Gonna Make You Sweat (Everybody D.mp3
 /home/jsiples/Music/C & C Music Factory/DJ Tools Disc 07/05 Gonna Make You Sweat (Everybody D.mp3
@@ -8066,6 +8131,20 @@
 /home/jsiples/Music/DJ Clue/Fidel Cashflow 2006 - The New/10 Bling Blao, Pt. 2.mp3
 /home/jsiples/Music/DJ Company/Mainstream Radio - 199710 - Oct 97/14 Forever Young.mp3
 /home/jsiples/Music/Beatport/10 Free Downloads/425388_Put_The_Record_Back_On__InStereo_Recordings__Gutter_Brothers_Remix.mp3
+/home/jsiples/Music/DJ Dean - Protect Your Ears/01 - DJ Dean - Intro.mp3
+/home/jsiples/Music/DJ Dean - Protect Your Ears/02 - DJ Dean - Protect Your Ears.mp3
+/home/jsiples/Music/DJ Dean - Protect Your Ears/03 - DJ Dean - Bomb The Bass.mp3
+/home/jsiples/Music/DJ Dean - Protect Your Ears/04 - DJ Dean - Out Of Tune.mp3
+/home/jsiples/Music/DJ Dean - Protect Your Ears/05 - DJ Dean - Ballanation Episode 2.mp3
+/home/jsiples/Music/DJ Dean - Protect Your Ears/06 - DJ Dean - Out Of Sight.mp3
+/home/jsiples/Music/DJ Dean - Protect Your Ears/07 - DJ Dean - Check The Beat.mp3
+/home/jsiples/Music/DJ Dean - Protect Your Ears/08 - DJ Dean - Champions Of Trance.mp3
+/home/jsiples/Music/DJ Dean - Protect Your Ears/09 - DJ Dean - Ballanation 3 The Last Crusade.mp3
+/home/jsiples/Music/DJ Dean - Protect Your Ears/10 - DJ Dean - Play It Hard.mp3
+/home/jsiples/Music/DJ Dean - Protect Your Ears/11 - DJ Dean - Attention.mp3
+/home/jsiples/Music/DJ Dean - Protect Your Ears/12 - DJ Dean - In Your Face.mp3
+/home/jsiples/Music/DJ Dean - Protect Your Ears/13 - DJ Dean - Scream.mp3
+/home/jsiples/Music/DJ Dean - Protect Your Ears/14 - DJ Dean - Get X.mp3
 /home/jsiples/Music/DJ Drama f. Akon, Snoop Dog & T.I_/Unknown Album (04_23_2009 4_16_59 PM)/11 Day Dreaming.mp3
 /home/jsiples/Music/DJ Drama & Young Jeezy/Can't Ban the Snowman/02 I'm Back.mp3
 /home/jsiples/Music/Tunnel Trance Force Vol.60 (2012)/116-DJ_Enzo.Ch-Fly_With_Me_(Netro_Remix).mp3
@@ -8115,6 +8194,18 @@
 /home/jsiples/Music/Future Trance Vol.57 (2011)/210-dj_sammy_feat._jean-baptiste_and_nyah_-_animal_(male_mix).mp3
 /home/jsiples/Music/DJ SAMMY & YANOU/Unknown Album/HEAVEN (PROMO REMIX).MP3
 /home/jsiples/Music/DJ Sammy & Yanou Feat. Do/Mainstream Radio July 2002/06 Heaven.mp3
+/home/jsiples/Music/DJ Scot Project/A1/01 A1 (Intro) DJ Scot Project A1 Trance.mp3
+/home/jsiples/Music/DJ Scot Project/A1/02 A (Asian Sunrise) DJ Scot Project A1 Trance.mp3
+/home/jsiples/Music/DJ Scot Project/A1/03 U (Special LP Remix) DJ Scot Project A1 Trance.mp3
+/home/jsiples/Music/DJ Scot Project/A1/04 L (Want Your Love) DJ Scot Project A1 Trance.mp3
+/home/jsiples/Music/DJ Scot Project/A1/05 FM3 (Feeling Me) DJ Scot Project A1 Trance.mp3
+/home/jsiples/Music/DJ Scot Project/A1/06 R (Rock!) DJ Scot Project A1 Trance.mp3
+/home/jsiples/Music/DJ Scot Project/A1/07 I (Need You) DJ Scot Project A1 Trance.mp3
+/home/jsiples/Music/DJ Scot Project/A1/08 N (No Rougher) DJ Scot Project A1 Trance.mp3
+/home/jsiples/Music/DJ Scot Project/A1/09 FM1 (Feeling Me) DJ Scot Project A1 Trance.mp3
+/home/jsiples/Music/DJ Scot Project/A1/10 S (Outer Space) DJ Scot Project A1 Trance.mp3
+/home/jsiples/Music/DJ Scot Project/A1/11 F (Future Is Now) DJ Scot Project A1 Trance.mp3
+/home/jsiples/Music/DJ Scot Project/A1/12 O (Overdrive) DJ Scot Project A1 Trance.mp3
 /home/jsiples/Music/Endtroducting... [Deluxe Edition]/Disc 1/01 Best Foot Forward.mp3
 /home/jsiples/Music/Endtroducting... [Deluxe Edition]/Disc 1/02 Building Steam With a Grain of Salt.mp3
 /home/jsiples/Music/Endtroducting... [Deluxe Edition]/Disc 1/03 The Number Song.mp3
@@ -13736,6 +13827,19 @@
 /home/jsiples/Music/Karyn White/Billboard Hot 100 Singles 1992/63 The Way I Feel About You.mp3
 /home/jsiples/Music/Karyn White/Billboard Hot 100 Singles 1992/63 Way I Feel About You, The.mp3
 /home/jsiples/Music/KASHEEN/march 2002/12  HIDE U.mp3
+/home/jsiples/Music/Kaskade - It's You, It's Me (2003) [MP3 320]/01 - Meditation To The Groove.mp3
+/home/jsiples/Music/Kaskade - It's You, It's Me (2003) [MP3 320]/02 - I Feel Like.mp3
+/home/jsiples/Music/Kaskade - It's You, It's Me (2003) [MP3 320]/03 - What I Say (Soft Shuffle Mix).mp3
+/home/jsiples/Music/Kaskade - It's You, It's Me (2003) [MP3 320]/04 - This Rhythm.mp3
+/home/jsiples/Music/Kaskade - It's You, It's Me (2003) [MP3 320]/05 - Mak Mop.mp3
+/home/jsiples/Music/Kaskade - It's You, It's Me (2003) [MP3 320]/06 - Seeing Julie.mp3
+/home/jsiples/Music/Kaskade - It's You, It's Me (2003) [MP3 320]/07 - It's You, It's Me.mp3
+/home/jsiples/Music/Kaskade - It's You, It's Me (2003) [MP3 320]/08 - Get Busy.mp3
+/home/jsiples/Music/Kaskade - It's You, It's Me (2003) [MP3 320]/09 - Tonight.mp3
+/home/jsiples/Music/Kaskade - It's You, It's Me (2003) [MP3 320]/10 - Charlie's Plight.mp3
+/home/jsiples/Music/Kaskade - It's You, It's Me (2003) [MP3 320]/11 - My Time.mp3
+/home/jsiples/Music/Kaskade - It's You, It's Me (2003) [MP3 320]/12 Call Me Wise.mp3
+/home/jsiples/Music/Kaskade - It's You, It's Me (2003) [MP3 320]/13 Close.mp3
 /home/jsiples/Music/Future Trance Vol.60 (2012)/118_kaskade_feat._mindy_gledhill_-_eyes.mp3
 /home/jsiples/Music/Beatport/VIP Track Package 2/1050095_Young_Again__hfn__Serge_Santiago_Italo_Boot_Remix__.mp3
 /home/jsiples/Music/Kasper From The K/Promo Radio May 2008/18 Whatchagondo.mp3
@@ -14064,6 +14168,24 @@
 /home/jsiples/Music/Kid 606/Pretty Girls Make Raves/01 Let It Rock.mp3
 /home/jsiples/Music/Kid Cudi/Day 'N' Nite - EP/01 Day 'N' Nite.mp3
 /home/jsiples/Music/Kid Cudi/Mainstream Feburary 2009/15 Day N Nite.mp3
+/home/jsiples/Music/Kid Loco/DJ-Kicks/Kid Loco_01_Don't You Know I'm Loco.mp3
+/home/jsiples/Music/Kid Loco/DJ-Kicks/Kid Loco_02_Om Namah Shivaya.mp3
+/home/jsiples/Music/Kid Loco/DJ-Kicks/Kid Loco_03_Continuum.mp3
+/home/jsiples/Music/Kid Loco/DJ-Kicks/Kid Loco_04_Dark Light (Underdog Mix).mp3
+/home/jsiples/Music/Kid Loco/DJ-Kicks/Kid Loco_05_Mr.Flakey.mp3
+/home/jsiples/Music/Kid Loco/DJ-Kicks/Kid Loco_06_Theme From Conquest Of Irrational (Rmx).mp3
+/home/jsiples/Music/Kid Loco/DJ-Kicks/Kid Loco_07_Introspection.mp3
+/home/jsiples/Music/Kid Loco/DJ-Kicks/Kid Loco_08_Dark Soul.mp3
+/home/jsiples/Music/Kid Loco/DJ-Kicks/Kid Loco_09_Blueski.mp3
+/home/jsiples/Music/Kid Loco/DJ-Kicks/Kid Loco_10_Grimble.mp3
+/home/jsiples/Music/Kid Loco/DJ-Kicks/Kid Loco_11_Jesus Christ Almighty ((Pylon King+Dunderhead Remix)).mp3
+/home/jsiples/Music/Kid Loco/DJ-Kicks/Kid Loco_12_Happy Cycling.mp3
+/home/jsiples/Music/Kid Loco/DJ-Kicks/Kid Loco_13_One.mp3
+/home/jsiples/Music/Kid Loco/DJ-Kicks/Kid Loco_14_Attitude Adjuster.mp3
+/home/jsiples/Music/Kid Loco/DJ-Kicks/Kid Loco_15_Culture Customers.mp3
+/home/jsiples/Music/Kid Loco/DJ-Kicks/Kid Loco_16_Lovesick (Underdog Rmx).mp3
+/home/jsiples/Music/Kid Loco/DJ-Kicks/Kid Loco_17_Slo Jo.mp3
+/home/jsiples/Music/Kid Loco/DJ-Kicks/Kid Loco_18_Flyin' on 747.mp3
 /home/jsiples/Music/Kid Rock/Unknown Album/Bawitdaba.mp3
 /home/jsiples/Music/Kid Rock/Unknown Album/Cowboy.mp3
 /home/jsiples/Music/Kid Rock/Unknown Album/67 Only God Knows Why.mp3
@@ -15203,6 +15325,20 @@
 /home/jsiples/Music/Little Eva/Billboard Hot 100 Singles 1962/07 The Locomotion.mp3
 /home/jsiples/Music/Little Eva/Billboard Hot 100 Singles 1963/79 Keep Your Hands Of My Baby.mp3
 /home/jsiples/Music/Little Peggy March/Billboard Hot 100 Singles 1963/26 I Will Follow Him.mp3
+/home/jsiples/Music/Little People - Mickey Mouse Operation/01-Little People-Basique.ogg
+/home/jsiples/Music/Little People - Mickey Mouse Operation/02-Little People-Moon.ogg
+/home/jsiples/Music/Little People - Mickey Mouse Operation/03-Little People-Unsaid.ogg
+/home/jsiples/Music/Little People - Mickey Mouse Operation/04-Little People-Eitheror.ogg
+/home/jsiples/Music/Little People - Mickey Mouse Operation/05-Little People-Above the Clouds.ogg
+/home/jsiples/Music/Little People - Mickey Mouse Operation/06-Little People-Breathe Again (feat. Rachael Roberts).ogg
+/home/jsiples/Music/Little People - Mickey Mouse Operation/07-Little People-Intermezzo.ogg
+/home/jsiples/Music/Little People - Mickey Mouse Operation/08-Little People-Idiom.ogg
+/home/jsiples/Music/Little People - Mickey Mouse Operation/09-Little People-Inutile et Indispensable.ogg
+/home/jsiples/Music/Little People - Mickey Mouse Operation/10-Little People-Last Fare.ogg
+/home/jsiples/Music/Little People - Mickey Mouse Operation/11-Little People-Fisticuffs at Dawn.ogg
+/home/jsiples/Music/Little People - Mickey Mouse Operation/12-Little People-Behind Closed Doors (edit).ogg
+/home/jsiples/Music/Little People - Mickey Mouse Operation/13-Little People-Start Shootin'.ogg
+/home/jsiples/Music/Little People - Mickey Mouse Operation/14-Little People-Gravitas.ogg
 /home/jsiples/Music/Little Richard/Radio Essentials Series Disc 03/01 Good Golly Miss Molly.mp3
 /home/jsiples/Music/Little Richard/Radio Essentials Series Disc 03/04 Tutti Frutti.mp3
 /home/jsiples/Music/Little River Band/Billboard Hot 100 Singles 1978/65 Reminiscing.mp3
@@ -15526,6 +15662,16 @@
 /home/jsiples/Music/Lupe Fiasco ft Matt Santos/Mar '08 Mainstream Radio/13 Superstar.mp3
 /home/jsiples/Music/Luscious Jackson/Billboard Hot 100 Singles 1997/81 Naked Eye.mp3
 /home/jsiples/Music/Beatport/VIP Track Package 2/1050097_Two_Dots_feat__Vilja_Larjosto__Ghostly_International__Original_Mix.mp3
+/home/jsiples/Music/GI-172-Lusine-The Waiting Room/01 Panoramic.mp3
+/home/jsiples/Music/GI-172-Lusine-The Waiting Room/02 Get the Message.mp3
+/home/jsiples/Music/GI-172-Lusine-The Waiting Room/03 Lucky.mp3
+/home/jsiples/Music/GI-172-Lusine-The Waiting Room/04 On Telegraph.mp3
+/home/jsiples/Music/GI-172-Lusine-The Waiting Room/05 Another Tomorrow.mp3
+/home/jsiples/Music/GI-172-Lusine-The Waiting Room/06 Without a Plan.mp3
+/home/jsiples/Music/GI-172-Lusine-The Waiting Room/07 First Call.mp3
+/home/jsiples/Music/GI-172-Lusine-The Waiting Room/08 By this Sound.mp3
+/home/jsiples/Music/GI-172-Lusine-The Waiting Room/09 Stratus.mp3
+/home/jsiples/Music/GI-172-Lusine-The Waiting Room/10 February.mp3
 /home/jsiples/Music/Lustra/Eurotrip Soundtrack/01 Scotty Doesn't Know.mp3
 /home/jsiples/Music/Luther Ingram/Billboard Hot 100 Singles 1972/16 If Loving You Is Wrong (I Don't W 1.mp3
 /home/jsiples/Music/Luther Ingram/Billboard Hot 100 Singles 1972/16 If Loving You Is Wrong (I Don't W.mp3
@@ -21983,6 +22129,17 @@
 /home/jsiples/Music/Sarah Slean/Mainstream Can Aug 04/15 Lucky Me.mp3
 /home/jsiples/Music/Sarah Vaughan/Billboard Hot 100 Singles 1959/51 Broken-Hearted Melody.mp3
 /home/jsiples/Music/Sasha/Be As One/Be As One.mp3
+/home/jsiples/Music/Sasha - Airdrawndagger/(01) Dremples.mp3
+/home/jsiples/Music/Sasha - Airdrawndagger/(02) Mr. Tiddles.mp3
+/home/jsiples/Music/Sasha - Airdrawndagger/(03) Magnetic North.mp3
+/home/jsiples/Music/Sasha - Airdrawndagger/(04)  Cloud Cuckoo.mp3
+/home/jsiples/Music/Sasha - Airdrawndagger/(05) Immortal.mp3
+/home/jsiples/Music/Sasha - Airdrawndagger/(06) Fundamental.mp3
+/home/jsiples/Music/Sasha - Airdrawndagger/(07) Boilerroom.mp3
+/home/jsiples/Music/Sasha - Airdrawndagger/(08) Bloodlock.mp3
+/home/jsiples/Music/Sasha - Airdrawndagger/(09) Requium.mp3
+/home/jsiples/Music/Sasha - Airdrawndagger/(10) Golden Arm.mp3
+/home/jsiples/Music/Sasha - Airdrawndagger/(11) Wavey Gravy.mp3
 /home/jsiples/Music/Satana Feat. Jennifer Lopez & Baby Bash/Promo Radio May 2008/11 This Boy's Fire.mp3
 /home/jsiples/Music/Savage Garden/Unknown Album/07 I Knew I Loved You.mp3
 /home/jsiples/Music/Savage Garden/Unknown Album/78 Crash and Burn.mp3
@@ -23513,6 +23670,15 @@
 /home/jsiples/Music/Stevie Wonder/Billboard Hot 100 Singles 1984/25 I Just Called To Say I Love You.mp3
 /home/jsiples/Music/Stevie Wounder/Album/02 My eyes don't cry.mp3
 /home/jsiples/Music/Stevie Wounder/Album/05 My eye's don't cry.mp3
+/home/jsiples/Music/St Germain - Tourist (2000)/01_Rose Rouge.mp3
+/home/jsiples/Music/St Germain - Tourist (2000)/02_Montego Bay Spleen.mp3
+/home/jsiples/Music/St Germain - Tourist (2000)/03_So Flute.mp3
+/home/jsiples/Music/St Germain - Tourist (2000)/04_Land Of....mp3
+/home/jsiples/Music/St Germain - Tourist (2000)/05_Latin Note.mp3
+/home/jsiples/Music/St Germain - Tourist (2000)/06_Sure Thing.mp3
+/home/jsiples/Music/St Germain - Tourist (2000)/07_Pont des Arts.mp3
+/home/jsiples/Music/St Germain - Tourist (2000)/08_La Goutte D'or.mp3
+/home/jsiples/Music/St Germain - Tourist (2000)/09_What You Think About....mp3
 /home/jsiples/Music/Sting/Billboard Hot 100 Singles 1985/Fortress Around Your Heart.mp3
 /home/jsiples/Music/Sting/Billboard Hot 100 Singles 1985/If You Love Somebody Set Them Free.mp3
 /home/jsiples/Music/Sting/Billboard Hot 100 Singles 1988/We'll Be Together.mp3
@@ -24651,6 +24817,23 @@
 /home/jsiples/Music/Ted Nugent/Cat Scratch Fever/09 Cat Scratch Fever.mp3
 /home/jsiples/Music/Teena Marie/Top Gun (Special Expanded Edition) Sound/Lead Me On.mp3
 /home/jsiples/Music/Teena Marie/Billboard Hot 100 Singles 1985/29 Lover Girl.mp3
+/home/jsiples/Music/Teen Daze - All of Us, Together (2012)/01.Teen Daze - Treten.mp3
+/home/jsiples/Music/Teen Daze - All of Us, Together (2012)/02.Teen Daze - Late.mp3
+/home/jsiples/Music/Teen Daze - All of Us, Together (2012)/03.Teen Daze - Cold Sand.mp3
+/home/jsiples/Music/Teen Daze - All of Us, Together (2012)/04.Teen Daze - For Body and Kenzie.mp3
+/home/jsiples/Music/Teen Daze - All of Us, Together (2012)/05.Teen Daze - The New Balearic.mp3
+/home/jsiples/Music/Teen Daze - All of Us, Together (2012)/06.Teen Daze - Brooklyn Sunburn.mp3
+/home/jsiples/Music/Teen Daze - All of Us, Together (2012)/07.Teen Daze - Erbstück.mp3
+/home/jsiples/Music/Teen Daze - All of Us, Together (2012)/08.Teen Daze - The Future.mp3
+/home/jsiples/Music/Teen Daze - All of Us, Together (2012)/09.Teen Daze - Hold.mp3
+/home/jsiples/Music/Teen Daze - Glacier [2013] 320/01 - Alaska.mp3
+/home/jsiples/Music/Teen Daze - Glacier [2013] 320/02 - Autumnal.mp3
+/home/jsiples/Music/Teen Daze - Glacier [2013] 320/03 - Ice on the Windowsill.mp3
+/home/jsiples/Music/Teen Daze - Glacier [2013] 320/04 - Tundra.mp3
+/home/jsiples/Music/Teen Daze - Glacier [2013] 320/05 - Flora.mp3
+/home/jsiples/Music/Teen Daze - Glacier [2013] 320/06 - Listen.mp3
+/home/jsiples/Music/Teen Daze - Glacier [2013] 320/07 - Forest at Dawn.mp3
+/home/jsiples/Music/Teen Daze - Glacier [2013] 320/08 - Walk.mp3
 /home/jsiples/Music/Tee Set/Billboard Hot 100 Singles 1970/81 Ma Belle Amie.mp3
 /home/jsiples/Music/Tegan and Sara/5 Songs Live from the Phoenix - EP/04 This Is Everything.mp3
 /home/jsiples/Music/Tegan and  Sara/Mainstream April 2005/16 Walking With A Ghost.mp3
@@ -25497,6 +25680,12 @@
 /home/jsiples/Music/The Faint/Wet from birth/08 Phone Call.mp3
 /home/jsiples/Music/The Faint/Wet from birth/09 Symptom Finger.mp3
 /home/jsiples/Music/The Faint/Wet from birth/10 Birth.mp3
+/home/jsiples/Music/The Field-Yesterday And Today/01. The Field - I Have The Moon, You Have The Internet.mp3
+/home/jsiples/Music/The Field-Yesterday And Today/02. The Field - Everybody's Got To Learn Sometime.mp3
+/home/jsiples/Music/The Field-Yesterday And Today/03. The Field - Leave It.mp3
+/home/jsiples/Music/The Field-Yesterday And Today/04. The Field - Yesterday and Today.mp3
+/home/jsiples/Music/The Field-Yesterday And Today/05. The Field - The More That I Do.mp3
+/home/jsiples/Music/The Field-Yesterday And Today/06. The Field - Sequenced.mp3
 /home/jsiples/Music/The Fixx/Radio Essentials Series Disc 14/14 One Thing Leads To Another.mp3
 /home/jsiples/Music/The Flys/Mainstream Radio - 199812 - Dec 98/16 Got You (Where I Want You).mp3
 /home/jsiples/Music/The Format/Dog Problems (Bonus Track Version)/03 Time Bomb.mp3
@@ -27499,6 +27688,37 @@
 /home/jsiples/Music/Trio/Radio Essentials Series Disc 11/20 Da Da Da.mp3
 /home/jsiples/Music/Tripping Daisy/Disc 408/08 I Got A Girl.mp3
 /home/jsiples/Music/Future Trance Vol.59 (2012)/222_tripple_x_elle_-_repeat.mp3
+/home/jsiples/Music/Triptides - Colors/Colors.mp3
+/home/jsiples/Music/Triptides - Colors/Destiny.mp3
+/home/jsiples/Music/Triptides - Colors/I Didn't Know.mp3
+/home/jsiples/Music/Triptides - Colors/Lullabye.mp3
+/home/jsiples/Music/Triptides - Colors/Moonbeams.mp3
+/home/jsiples/Music/Triptides - Colors/Throne of Stars.mp3
+/home/jsiples/Music/Triptides - Triptides/Reel.mp3
+/home/jsiples/Music/Triptides - Triptides/Venus is Cruel.mp3
+/home/jsiples/Music/Triptides - Triptides/Something Silver.mp3
+/home/jsiples/Music/Triptides - Triptides/Bad News.mp3
+/home/jsiples/Music/Triptides - Psychic Summer/Drift Away.mp3
+/home/jsiples/Music/Triptides - Psychic Summer/Going Under.mp3
+/home/jsiples/Music/Triptides - Psychic Summer/Spirit Flows.mp3
+/home/jsiples/Music/Triptides - Psychic Summer/Pier.mp3
+/home/jsiples/Music/Triptides - Psychic Summer/Wandering.mp3
+/home/jsiples/Music/Triptides - Psychic Summer/Psychic Summer.mp3
+/home/jsiples/Music/Triptides - Psychic Summer/Who Knows.mp3
+/home/jsiples/Music/Triptides - Psychic Summer/Outlaw.mp3
+/home/jsiples/Music/Triptides - Psychic Summer/Satin Skies.mp3
+/home/jsiples/Music/Triptides - Psychic Summer/Catch a Wave.mp3
+/home/jsiples/Music/Triptides - Psychic Summer/Islands.mp3
+/home/jsiples/Music/Triptides - Psychic Summer/Psychic Garden.mp3
+/home/jsiples/Music/Triptides - Psychic Summer/June.mp3
+/home/jsiples/Music/Triptides - Triptides/Summerday.mp3
+/home/jsiples/Music/Triptides - Tropical Dreams/Beneath the Sun.mp3
+/home/jsiples/Music/Triptides - Tropical Dreams/Coastlines.mp3
+/home/jsiples/Music/Triptides - Tropical Dreams/Shadows.mp3
+/home/jsiples/Music/Triptides - Tropical Dreams/Tropical Dreams.mp3
+/home/jsiples/Music/Triptides - Tropical Dreams/So Long To Sunshine.mp3
+/home/jsiples/Music/Triptides - Tropical Dreams/Golden Light.mp3
+/home/jsiples/Music/Triptides - Tropical Dreams/Diving Board.mp3
 /home/jsiples/Music/Trisha Yearwood/DEVOTION/HOW DO I LIVE.MP3
 /home/jsiples/Music/Trisha Yearwood/Radio Essentials Series Disc 50/01 XXX's And OOO's.mp3
 /home/jsiples/Music/Trisha Yearwood/Where Your Road Leads/01 There Goes My Baby.mp3
@@ -28752,6 +28972,15 @@
 /home/jsiples/Music/Village People/The Best of Village People/01 Y.M.C.A.mp3
 /home/jsiples/Music/Village People, The/DJ Tools Disc 11/15 Macho Man.mp3
 /home/jsiples/Music/Village Stompers/Billboard Hot 100 Singles 1963/09 Washington Square.mp3
+/home/jsiples/Music/Villalobos - Alcachofa/Villalobos - 01 Easy Lee.mp3
+/home/jsiples/Music/Villalobos - Alcachofa/Villalobos - 02 YGH.mp3
+/home/jsiples/Music/Villalobos - Alcachofa/Villalobos - 06 Theogenese.mp3
+/home/jsiples/Music/Villalobos - Alcachofa/Villalobos - 08 Dexter.mp3
+/home/jsiples/Music/Villalobos - Alcachofa/Villalobos - 03 Bahaha Hahi.mp3
+/home/jsiples/Music/Villalobos - Alcachofa/Villalobos - 04 I Try To Live (Can I Live).mp3
+/home/jsiples/Music/Villalobos - Alcachofa/Villalobos - 05 Waiworinao.mp3
+/home/jsiples/Music/Villalobos - Alcachofa/Villalobos - 07 What You Say Is More Than I Can Say (Edit).mp3
+/home/jsiples/Music/Villalobos - Alcachofa/Villalobos - 09 Fools Garden (Black Conga).mp3
 /home/jsiples/Music/A State Of Trance 2013 (Mixed By Armin van Buuren) (Inspiron)/Cont Mix/CD 1/01 Armin Van Buuren - A State Of Trance 2013 (Cd 1).mp3
 /home/jsiples/Music/A State Of Trance 2013 (Mixed By Armin van Buuren) (Inspiron)/Split Mix/CD 2/01 Alexander Popov - Lost Language (Intro Mix).mp3
 /home/jsiples/Music/A State Of Trance 2013 (Mixed By Armin van Buuren) (Inspiron)/Unmixed/CD 2/01 Alexander Popov - Lost Language (Intro Mix Edit).mp3

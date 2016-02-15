@@ -27,11 +27,18 @@ set imap_keepalive = 900
 set sort = 'threads'
 set sort_aux = 'reverse-date-received'
 
+# DISPLAY COLUMNS
+set index_format = "%4C %Z  %{%b %d}  %-25.25L  %s"
+
 # POLL MAILBOXES
-set imap_check_subscribed
 set mail_check = 60
 set timeout = 10
 
 # COLORS
 color status blue default
 color indicator black green
+# identifies email addresses
+color body  brightred default [\-\.+_a-zA-Z0-9]+@[\-\.a-zA-Z0-9]+
+# identifies URLs
+color body  brightblue default (https?|ftp)://[\-\.,/%~_:?&=\#a-zA-Z0-9]+
+color index cyan default "~U" # unread messages

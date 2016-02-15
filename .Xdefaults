@@ -8,7 +8,6 @@ URxvt*urgentOnBell: True
 URxvt*visualBell: False
 URxvt*skipScroll: True
 URxvt*cursorUnderline: True
-URxvt*letterSpace: -2
 URxvt*depth: 32
 
 ! Extensions
@@ -18,15 +17,11 @@ URxvt*urlLauncher:     /usr/bin/firefox
 URxvt*matcher.button:  1
 
 ! Fonts
-URxvt.font:xft:DroidSansMono:pixelsize=9
-URxvt.boldFont:xft:DroidSansMono:pixelsize=9
+URxvt.font:xft:terminus:size=9
+URxvt.boldFont:xft:terminus:size=9
 
 ! Xft
-Xft.dpi: 96
-Xft.antialias: true
 Xft.rgba: rgb
-Xft.hinting: true
-Xft.hintstyle: hintslight
 
 ! terminal colors ------------------------------------------------------------
 
