@@ -14,7 +14,7 @@ local menubar = require("menubar")
 local vicious = require("vicious")
 
 -- Load Debian menu entries
-require("debian.menu")
+--- require("debian.menu")
 
 -- Launch Startup Scripts
 awful.util.spawn_with_shell("killall xcompmgr; xcompmgr -ncf &")
@@ -52,7 +52,7 @@ theme_path = os.getenv("HOME").."/.config/awesome/themes/siples/theme.lua"
 beautiful.init(theme_path)
 
 -- This is used later as the default terminal and editor to run.
-terminal = "rxvt-unicode"
+terminal = "urxvt256c"
 editor = os.getenv("EDITOR") or "nano"
 editor_cmd = terminal .. " -e " .. editor
 
@@ -123,6 +123,7 @@ menubar.utils.terminal = terminal -- Set the terminal for applications that requ
 -- Create a textclock widget
 mytextclock = awful.widget.textclock()
 
+--[=====[ 
 -- {{{ Cmus info
 musicicon = wibox.widget.imagebox()
 musicicon:set_image(beautiful.widget_music)
@@ -142,6 +143,7 @@ vicious.register(cmus_widget, vicious.widgets.cmus,
         end
     end, 7)
 --}}}
+--]=====] 
 
 -- Memory Usage Widget
 memorywidget_icon       = wibox.widget.imagebox()
@@ -322,7 +324,7 @@ for s = 1, screen.count() do
 
     -- Widgets that are aligned to the right
     local right_layout = wibox.layout.fixed.horizontal()
-    right_layout:add(cmus_widget)
+--    right_layout:add(cmus_widget)
     right_layout:add(cpuloadwidget_icon_m)
     right_layout:add(cpuloadwidget)
     right_layout:add(memorywidget_icon_m)

@@ -1,6 +1,6 @@
 runtime plugin/supertab.vim
-runtime plugin/fugitive.vim
 runtime plugin/airline.vim
+runtime plugin/airline-themes.vim
 
 syntax on
 filetype indent on
@@ -33,3 +33,6 @@ let g:solarized_visibility="high"
 
 set omnifunc=syntaxcomplete#Complete
 let g:SuperTabDefaultCompletionType = "<C-X><C-O>" 
+
+let g:airline_theme='dark'
+set t_Co=256
