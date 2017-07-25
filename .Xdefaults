@@ -17,8 +17,8 @@ URxvt*urlLauncher:     /usr/bin/firefox
 URxvt*matcher.button:  1
 
 ! Fonts
-URxvt.font:xft:terminus:size=9
-URxvt.boldFont:xft:terminus:size=9
+URxvt*font:-*-terminus-*-*-*-*-*-*-*-*-*-*-*-*
+URxvt*boldFont:-*-terminus-*-*-*-*-*-*-*-*-*-*-*-*
 
 ! Xft
 Xft.rgba: rgb

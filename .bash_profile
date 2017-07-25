@@ -3,13 +3,8 @@ if [ -f ~/.bashrc ]; then
         . ~/.bashrc
 fi
 
-# Git branch parsing function
-parse_git_branch() {
-     git branch 2> /dev/null | sed -e '/^[^*]/d' -e 's/* \(.*\)/ (\1)/'
-}
-
 # Bash prompt
-export PS1="\[\033[34m\]\u\[\033[37m\]@\[\033[36m\]\h \[\033[32m\]\w\[\033[33m\]\$(parse_git_branch)\[\033[00m\] $ "
+export PS1="\[\033[34m\]\u\[\033[37m\]@\[\033[36m\]\h \[\033[32m\]\w\[\033[00m\] $ "
 
 # Add to path
 export PATH=$PATH:$HOME/bin

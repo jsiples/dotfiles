@@ -10,16 +10,15 @@ local beautiful = require("beautiful")
 -- Notification library
 local naughty = require("naughty")
 local menubar = require("menubar")
-
 local vicious = require("vicious")
 
 -- Load Debian menu entries
 --- require("debian.menu")
 
 -- Launch Startup Scripts
-awful.util.spawn_with_shell("killall xcompmgr; xcompmgr -ncf &")
-awful.util.spawn_with_shell("killall nm-applet; nm-applet &")
-awful.util.spawn_with_shell("killall volumeicon; volumeicon &")
+--awful.util.spawn_with_shell("killall xcompmgr; xcompmgr -ncf &")
+--awful.util.spawn_with_shell("killall nm-applet; nm-applet &")
+--awful.util.spawn_with_shell("killall volumeicon; volumeicon &")
 
 -- {{{ Error handling
 -- Check if awesome encountered an error during startup and fell back to
@@ -101,13 +100,21 @@ end
 -- {{{ Menu
 -- Create a laucher widget and a main menu
 myawesomemenu = {
-   { "manual", terminal .. " -e man awesome" },
-   { "edit config", editor_cmd .. " " .. awesome.conffile },
    { "restart", awesome.restart },
+   { "sleep", "systemctl suspend"},
    { "quit", awesome.quit }
 }
 
+myappmenu = { 
+    { "internet", { 
+        { "chrome", "google-chrome"},
+        { "firefox", "firefox"}
+        }
+    }
+}
+
 mymainmenu = awful.menu({ items = { { "awesome", myawesomemenu, beautiful.awesome_icon },
+                                    { "applications", myappmenu},
                                     { "open terminal", terminal }
                                   }
                         })
@@ -144,6 +151,20 @@ vicious.register(cmus_widget, vicious.widgets.cmus,
     end, 7)
 --}}}
 --]=====] 
+
+-- CPU Temp Widget
+cputempwidget = wibox.widget.textbox()
+function update_tempwidget()
+    local temp
+    count = 0
+    f = io.open("/sys/devices/platform/coretemp.0/hwmon/hwmon2/temp1_input")
+    line = f:read()
+    cputempwidget:set_text(" " .. math.floor(line/1000) .. "°C /")
+end
+update_tempwidget()
+tempwidgettimer = timer({ timeout = 3 })
+tempwidgettimer:connect_signal("timeout", update_tempwidget)
+tempwidgettimer:start()
 
 -- Memory Usage Widget
 memorywidget_icon       = wibox.widget.imagebox()
@@ -219,7 +240,7 @@ function update_cpuloadwidget()
             usage_percent = math.floor(diff_active/diff_total*100)
             cpu0_total    = total_new
             cpu0_active   = active_new
-            cpuloadwidget:set_text(" " .. usage_percent .. "% /")
+            cpuloadwidget:set_text(" " .. usage_percent .. "% ")
         end
     end
     f:close()
@@ -327,6 +348,7 @@ for s = 1, screen.count() do
 --    right_layout:add(cmus_widget)
     right_layout:add(cpuloadwidget_icon_m)
     right_layout:add(cpuloadwidget)
+    right_layout:add(cputempwidget)
     right_layout:add(memorywidget_icon_m)
     right_layout:add(memorywidget)
     if s == 1 then right_layout:add(wibox.widget.systray()) end
@@ -400,7 +422,7 @@ globalkeys = awful.util.table.join(
     awful.key({ modkey, "Control" }, "n", awful.client.restore),
 
     -- Prompt
-    awful.key({ modkey },            "r",     function () mypromptbox[mouse.screen]:run() end),
+    awful.key({ modkey },            "r",     function () awful.screen.focused().mypromptbox:run() end),
 
     awful.key({ modkey }, "x",
               function ()
