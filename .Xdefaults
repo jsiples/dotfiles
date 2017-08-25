@@ -20,9 +20,6 @@ URxvt*matcher.button:  1
 URxvt*font:-*-terminus-*-*-*-*-*-*-*-*-*-*-*-*
 URxvt*boldFont:-*-terminus-*-*-*-*-*-*-*-*-*-*-*-*
 
-! Xft
-Xft.rgba: rgb
-
 ! terminal colors ------------------------------------------------------------
 
 !*background: #000000 + transparency
