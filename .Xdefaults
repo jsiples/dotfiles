@@ -12,9 +12,14 @@ URxvt*depth: 32
 
 ! Extensions
 URxvt*perl-lib:        /usr/lib/urxvt/perl/
-URxvt*perl-ext-common: default,matcher,searchable-scrollback
+URxvt*perl-ext-common: default,clipboard,url-select,keyboard-select,matcher,searchable-scrollback,resize-font
 URxvt*urlLauncher:     /usr/bin/firefox
 URxvt*matcher.button:  1
+
+! URL Select Extension
+URxvt.url-select.launcher:  google-chrome-stable
+URxvt.url-select.underline: true
+URxvt.keysym.M-u: perl:url-select:select_next
 
 ! Fonts
 URxvt*font:-*-terminus-*-*-*-*-*-*-*-*-*-*-*-*
@@ -24,7 +29,7 @@ URxvt*boldFont:-*-terminus-*-*-*-*-*-*-*-*-*-*-*-*
 
 !*background: #000000 + transparency
 !*foreground: #FFFFFF
-URxvt*background: [85]#000000
+URxvt*background: [95]#000000
 URxvt*foreground: #FFFFFF
 
 ! Black + DarkGrey
