@@ -1,5 +1,0 @@
-PLAYER='mplayer -cache 1024 -cache-min 50 -playlist'
-
-MENU=no
-
-PREMIUM='b710f0a90394716c79308f08'
