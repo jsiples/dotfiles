@@ -1,7 +1,3 @@
-runtime plugin/supertab.vim
-runtime plugin/airline.vim
-runtime plugin/airline-themes.vim
-
 syntax on
 filetype indent on
 filetype plugin on
@@ -31,9 +27,7 @@ let g:solarized_termtrans=1
 let g:solarized_termcolors=256
 let g:solarized_contrast="high"
 let g:solarized_visibility="high"
-
-set omnifunc=syntaxcomplete#Complete
-let g:SuperTabDefaultCompletionType = "<C-X><C-O>" 
-
-let g:airline_theme='dark'
 set t_Co=256
+
+" syntax
+let g:javascript_plugin_jsdoc = 1
