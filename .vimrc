@@ -21,13 +21,14 @@ set softtabstop=2
 set shiftwidth=2
 set expandtab
 
-" colors
+" colors / theme
 set background=dark
 let g:solarized_termtrans=1
 let g:solarized_termcolors=256
 let g:solarized_contrast="high"
 let g:solarized_visibility="high"
 set t_Co=256
+let g:airline_theme='dark'
 
 " syntax
 let g:javascript_plugin_jsdoc = 1
