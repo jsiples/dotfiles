@@ -8,14 +8,14 @@
 
 ---
 ### Vim
-Add a plugin
+**Add a plugin**
 
 `git submodule add https://github.com/vim-airline/vim-airline.git .vim/pack/plugins/start/vim-airline`
 
-Update plugins
+**Update plugins**
 
 `git submodule update --remote --merge`
 
-Delete plugins
+**Delete plugins**
 
 `git submodule deinit .vim/pack/plugins/start/vim-airline`
