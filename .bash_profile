@@ -6,8 +6,11 @@ fi
 # Bash prompt
 export PS1="\[\033[34m\]\u\[\033[37m\]@\[\033[36m\]\h \[\033[32m\]\w\[\033[00m\] $ "
 
-# Add to path
+# Add home bin to path
 export PATH=$PATH:$HOME/bin
+
+# Homebrew Python install
+export PATH=$PATH:/usr/local/opt/python@3.8/bin
 
 if [[ `uname` == 'Darwin' ]]; then
 
