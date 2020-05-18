@@ -1,0 +1,48 @@
+URxvt.font: xft:FreeMono:style=Regular:pixelsize=20
+URxvt.boldFont: xft:FreeMono:style=Bold:pixelsize=20
+URxvt.letterSpace: 1
+URxvt.cursorBlink: true
+URxvt.cursorUnderline: true
+URxvt.scrollBar: false
+URxvt.scrollBar_right: false
+URxvt.urgentOnBell: true
+URxvt.depth: 24
+URxvt.saveline: 10000
+
+! special
+*.foreground:   #ffffff
+*.background:   #000000
+*.cursorColor:  #ffffff
+
+! black
+*.color0:       #222222
+*.color8:       #777777
+
+! red
+*.color1:       #ff0099
+*.color9:       #ff0099
+
+! green
+*.color2:       #00dd00
+*.color10:      #00dd00
+
+! yellow
+*.color3:       #ff9500
+*.color11:      #ff9500
+
+! blue
+*.color4:       #0077ff
+*.color12:      #0077ff
+
+! magenta
+*.color5:       #aa00ff
+*.color13:      #aa00ff
+
+! cyan
+*.color6:       #00ffbb
+*.color14:      #00ffbb
+
+! white
+*.color7:       #ffffff
+*.color15:      #ffffff
+
