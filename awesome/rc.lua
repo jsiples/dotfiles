@@ -294,6 +294,8 @@ globalkeys = gears.table.join(
     awful.key({ modkey, "Shift"   }, "space", function () awful.layout.inc(-1)                end,
               {description = "select previous", group = "layout"}),
 
+    awful.key({ "Control", "Mod1" }, "Delete", function () awful.util.spawn("xscreensaver-command -lock") end),
+
     awful.key({ modkey, "Control" }, "n",
               function ()
                   local c = awful.client.restore()
@@ -558,3 +560,7 @@ end)
 client.connect_signal("focus", function(c) c.border_color = beautiful.border_focus end)
 client.connect_signal("unfocus", function(c) c.border_color = beautiful.border_normal end)
 -- }}}
+
+awful.util.spawn_with_shell("xscreensaver -no-splash")
+awful.util.spawn("parcellite")
+awful.util.spawn("xcompmgr")

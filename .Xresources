@@ -9,7 +9,7 @@ URxvt*urgentOnBell: true
 URxvt*depth: 32
 URxvt.background: [85]#000000
 URxvt*saveline: 10000
-URxvt*geometry: 180x48
+URxvt*geometry: 120x32
 
 ! special
 *.foreground:   #ffffff
