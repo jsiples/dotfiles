@@ -1,7 +1,7 @@
-URxvt*font: xft:Source Code Pro:style=Medium:pixelsize=16
-URxvt*boldFont: xft:Source Code Pro:style=Bold:pixelsize=16
+URxvt*font: -*-terminus-medium-*-*-*-20-*-*-*-*-*-*-*
+URxvt*boldFont: -*-terminus-bold-*-*-*-20-*-*-*-*-*-*-*
 URxvt*cursorBlink: true
-URxvt*letterSpace: -1
+URxvt*letterSpace: 0
 URxvt*cursorUnderline: true
 URxvt*scrollBar: false
 URxvt*scrollBar_right: false

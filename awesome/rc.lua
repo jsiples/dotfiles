@@ -104,7 +104,9 @@ menubar.utils.terminal = terminal -- Set the terminal for applications that requ
 
 -- {{{ Wibar
 -- Create a textclock widget
-mytextclock = wibox.widget.textclock()
+--
+mytextclock = wibox.widget.textclock(" %d.%m.%Y %H:%M MT ")
+myzuluclock = wibox.widget.textclock("| %H:%M UTC ", 60, "Z")
 
 -- Create a wibox for each screen and add it
 local taglist_buttons = gears.table.join(
@@ -163,7 +165,9 @@ screen.connect_signal("property::geometry", set_wallpaper)
 
 awful.screen.connect_for_each_screen(function(s)
     -- Wallpaper
-    set_wallpaper(s)
+    -- set_wallpaper(s)
+    -- line below just sets a color bypassing theme.lua, uncomment above to restore theme.lua
+    gears.wallpaper.set("#000000")
 
     -- Each screen has its own tag table.
     awful.tag({ "1", "2", "3", "4", "5", "6", "7", "8", "9" }, s, awful.layout.layouts[1])
@@ -209,6 +213,7 @@ awful.screen.connect_for_each_screen(function(s)
             layout = wibox.layout.fixed.horizontal,
             wibox.widget.systray(),
             mytextclock,
+            myzuluclock,
             s.mylayoutbox,
         },
     }
