@@ -68,12 +68,12 @@ awful.layout.layouts = {
     awful.layout.suit.tile.top,
     awful.layout.suit.fair,
     awful.layout.suit.fair.horizontal,
-    awful.layout.suit.spiral,
-    awful.layout.suit.spiral.dwindle,
+--    awful.layout.suit.spiral,
+--    awful.layout.suit.spiral.dwindle,
     awful.layout.suit.max,
     awful.layout.suit.max.fullscreen,
-    awful.layout.suit.magnifier,
-    awful.layout.suit.corner.nw,
+--    awful.layout.suit.magnifier,
+--    awful.layout.suit.corner.nw,
     -- awful.layout.suit.corner.ne,
     -- awful.layout.suit.corner.sw,
     -- awful.layout.suit.corner.se,
@@ -105,7 +105,7 @@ menubar.utils.terminal = terminal -- Set the terminal for applications that requ
 -- {{{ Wibar
 -- Create a textclock widget
 --
-mytextclock = wibox.widget.textclock(" %d.%m.%Y %H:%M MT ")
+mytextclock = wibox.widget.textclock("  %d.%m.%Y | %H:%M MT ")
 myzuluclock = wibox.widget.textclock("| %H:%M UTC ", 60, "Z")
 
 -- Create a wibox for each screen and add it
@@ -211,9 +211,9 @@ awful.screen.connect_for_each_screen(function(s)
         s.mytasklist, -- Middle widget
         { -- Right widgets
             layout = wibox.layout.fixed.horizontal,
-            wibox.widget.systray(),
             mytextclock,
             myzuluclock,
+            wibox.widget.systray(),
             s.mylayoutbox,
         },
     }
