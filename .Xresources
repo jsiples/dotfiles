@@ -1,5 +1,5 @@
-URxvt*font: -*-terminus-medium-*-*-*-20-*-*-*-*-*-*-*
-URxvt*boldFont: -*-terminus-bold-*-*-*-20-*-*-*-*-*-*-*
+URxvt*font: -*-terminus-medium-*-*-*-24-*-*-*-*-*-*-*
+URxvt*boldFont: -*-terminus-bold-*-*-*-24-*-*-*-*-*-*-*
 URxvt*cursorBlink: true
 URxvt*letterSpace: 0
 URxvt*cursorUnderline: true
