@@ -6,17 +6,17 @@ local gfs = require("gears.filesystem")
 local themes_path = gfs.get_themes_dir()
 
 local colors = {}
-colors.blue     = "#268bd2"
-colors.green    = "#859900"
-colors.yellow   = "#b58900"
-colors.magenta  = "#6c71c4"
-colors.cyan     = "#2aa198"
-colors.red      = "#dc322f"
-colors.black    = "#000000"
-colors.white    = "#ffffff"
-colors.darkgray = "#222222"
-colors.gray     = "#444444"
-colors.lightgray= "#888888"
+colors.blue         = "#268bd2"
+colors.green        = "#859900"
+colors.yellow       = "#b58900"
+colors.magenta      = "#6c71c4"
+colors.cyan         = "#2aa198"
+colors.red          = "#dc322f"
+colors.black        = "#000000"
+colors.white        = "#ffffff"
+colors.darkgray     = "#222222"
+colors.gray         = "#666666"
+colors.lightgray    = "#afafaf"
 
 local theme = {}
 
@@ -29,14 +29,14 @@ theme.bg_minimize   = colors.black
 theme.bg_systray    = theme.bg_normal
 
 theme.fg_normal     = colors.white
-theme.fg_focus      = colors.blue
+theme.fg_focus      = colors.lightgray
 theme.fg_urgent     = colors.white
-theme.fg_minimize   = colors.lightgray
+theme.fg_minimize   = colors.gray
 
 theme.useless_gap   = dpi(0)
 theme.border_width  = 2
 theme.border_normal = colors.black
-theme.border_focus  = colors.blue
+theme.border_focus  = colors.white
 theme.border_marked = colors.cyan
 
 -- There are other variable sets
