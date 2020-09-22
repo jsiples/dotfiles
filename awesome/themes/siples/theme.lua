@@ -1,7 +1,3 @@
----------------------------
--- Default awesome theme --
----------------------------
-
 local theme_assets = require("beautiful.theme_assets")
 local xresources = require("beautiful.xresources")
 local dpi = xresources.apply_dpi
@@ -9,26 +5,39 @@ local dpi = xresources.apply_dpi
 local gfs = require("gears.filesystem")
 local themes_path = gfs.get_themes_dir()
 
+local colors = {}
+colors.blue     = "#268bd2"
+colors.green    = "#859900"
+colors.yellow   = "#b58900"
+colors.magenta  = "#6c71c4"
+colors.cyan     = "#2aa198"
+colors.red      = "#dc322f"
+colors.black    = "#000000"
+colors.white    = "#ffffff"
+colors.darkgray = "#222222"
+colors.gray     = "#444444"
+colors.lightgray= "#888888"
+
 local theme = {}
 
-theme.font          = "Orbitron Light 7"
+theme.font          = "Orbitron Medium 8"
 
-theme.bg_normal     = "#222222"
-theme.bg_focus      = "#447094"
-theme.bg_urgent     = "#ff0000"
-theme.bg_minimize   = "#444444"
+theme.bg_normal     = colors.darkgray
+theme.bg_focus      = colors.darkgray
+theme.bg_urgent     = colors.red
+theme.bg_minimize   = colors.black
 theme.bg_systray    = theme.bg_normal
 
-theme.fg_normal     = "#ffffff"
-theme.fg_focus      = "#ffffff"
-theme.fg_urgent     = "#ffffff"
-theme.fg_minimize   = "#ffffff"
+theme.fg_normal     = colors.white
+theme.fg_focus      = colors.blue
+theme.fg_urgent     = colors.white
+theme.fg_minimize   = colors.lightgray
 
 theme.useless_gap   = dpi(0)
-theme.border_width  = 1
-theme.border_normal = "#000000"
-theme.border_focus  = "#447094"
-theme.border_marked = "#91231c"
+theme.border_width  = 2
+theme.border_normal = colors.black
+theme.border_focus  = colors.blue
+theme.border_marked = colors.cyan
 
 -- There are other variable sets
 -- overriding the default one when

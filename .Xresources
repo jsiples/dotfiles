@@ -1,5 +1,6 @@
-URxvt*font: -*-terminus-medium-*-*-*-24-*-*-*-*-*-*-*
-URxvt*boldFont: -*-terminus-bold-*-*-*-24-*-*-*-*-*-*-*
+!URxvt*font: -*-terminus-medium-*-*-*-24-*-*-*-*-*-*-*
+!URxvt*boldFont: -*-terminus-bold-*-*-*-24-*-*-*-*-*-*-*
+URxvt*font: xft:Hack:pixelsize=22:antialias=true
 URxvt*cursorBlink: true
 URxvt*letterSpace: 0
 URxvt*cursorUnderline: true
@@ -22,39 +23,39 @@ URxvt.keysym.M-Escape: perl:keyboard-select:activate
 URxvt.keysym.M-s: perl:keyboard-select:search
 
 ! special
-*.foreground:   #ffffff
-*.background:   #000000
-*.cursorColor:  #ffffff
+*.foreground:   #93a1a1
+*.background:   #002b36
+*.cursorColor:  #93a1a1
 
 ! black
-*.color0:       #222222
-*.color8:       #777777
+*.color0:       #002b36
+*.color8:       #657b83
 
 ! red
-*.color1:       #ff0099
-*.color9:       #ff0099
+*.color1:       #dc322f
+*.color9:       #dc322f
 
 ! green
-*.color2:       #00aa00
-*.color10:      #00aa00
+*.color2:       #859900
+*.color10:      #859900
 
 ! yellow
-*.color3:       #ff9500
-*.color11:      #ff9500
+*.color3:       #b58900
+*.color11:      #b58900
 
 ! blue
-*.color4:       #0077ff
-*.color12:      #0077ff
+*.color4:       #268bd2
+*.color12:      #268bd2
 
 ! magenta
-*.color5:       #aa00ff
-*.color13:      #aa00ff
+*.color5:       #6c71c4
+*.color13:      #6c71c4
 
 ! cyan
-*.color6:       #00ffbb
-*.color14:      #00ffbb
+*.color6:       #2aa198
+*.color14:      #2aa198
 
 ! white
-*.color7:       #ffffff
-*.color15:      #ffffff
+*.color7:       #93a1a1
+*.color15:      #fdf6e3
 
