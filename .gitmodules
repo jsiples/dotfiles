@@ -7,3 +7,6 @@
 [submodule ".vim/pack/plugins/start/vim-airline-themes"]
 	path = .vim/pack/plugins/start/vim-airline-themes
 	url = git@github.com:vim-airline/vim-airline-themes.git
+[submodule ".zsh/powerlevel10k"]
+	path = .zsh/powerlevel10k
+	url = https://github.com/romkatv/powerlevel10k.git
