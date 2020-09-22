@@ -105,7 +105,7 @@ menubar.utils.terminal = terminal -- Set the terminal for applications that requ
 -- {{{ Wibar
 -- Create a textclock widget
 --
-mytextclock = wibox.widget.textclock("  %d.%m.%Y | %H:%M MT ")
+mytextclock = wibox.widget.textclock("| %d.%m.%Y | %H:%M MT ")
 myzuluclock = wibox.widget.textclock("| %H:%M UTC ", 60, "Z")
 
 -- Create a wibox for each screen and add it
@@ -211,6 +211,7 @@ awful.screen.connect_for_each_screen(function(s)
         s.mytasklist, -- Middle widget
         { -- Right widgets
             layout = wibox.layout.fixed.horizontal,
+            mypubip,
             mytextclock,
             myzuluclock,
             wibox.widget.systray(),
