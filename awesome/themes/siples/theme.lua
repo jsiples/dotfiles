@@ -20,7 +20,7 @@ colors.lightgray    = "#afafaf"
 
 local theme = {}
 
-theme.font          = "Orbitron Medium 8"
+theme.font          = "Hack 8"
 
 theme.bg_normal     = colors.darkgray
 theme.bg_focus      = colors.darkgray
