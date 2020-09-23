@@ -45,7 +45,7 @@ end
 
 -- {{{ Variable definitions
 -- Themes define colours, icons, font and wallpapers.
-beautiful.init("/home/jsiples/.config/awesome/themes/siples/theme.lua")
+beautiful.init("/home/jsiples/.config/awesome/themes/desktop/theme.lua")
 
 -- This is used later as the default terminal and editor to run.
 terminal = "urxvt"
