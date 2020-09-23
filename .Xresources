@@ -28,7 +28,7 @@ URxvt.keysym.M-s: perl:keyboard-select:search
 *.cursorColor:  #93a1a1
 
 ! black
-*.color0:       #002b36
+*.color0:       #000000
 *.color8:       #657b83
 
 ! red
@@ -57,5 +57,5 @@ URxvt.keysym.M-s: perl:keyboard-select:search
 
 ! white
 *.color7:       #93a1a1
-*.color15:      #fdf6e3
+*.color15:      #ffffff
 
