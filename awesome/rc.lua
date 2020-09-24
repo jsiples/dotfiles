@@ -558,6 +558,4 @@ client.connect_signal("focus", function(c) c.border_color = beautiful.border_foc
 client.connect_signal("unfocus", function(c) c.border_color = beautiful.border_normal end)
 -- }}}
 
-awful.util.spawn_with_shell("xscreensaver -no-splash")
-awful.util.spawn("parcellite")
-awful.util.spawn("xcompmgr")
+awful.util.spawn_with_shell("~/.config/awesome/autorun.sh")
