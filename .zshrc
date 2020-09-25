@@ -10,3 +10,4 @@ alias ll="ls -lsa"
 alias screenshot="import -window root ~/screenshot.png"
 alias mixer="ncpamixer"
 alias spotify="ncspot"
+
