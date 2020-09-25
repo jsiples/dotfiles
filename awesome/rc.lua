@@ -31,8 +31,9 @@ do
     end)
 end
 
+home_dir = os.getenv("HOME")
 theme_name = socket.dns.gethostname()
-beautiful.init("/home/jsiples/.config/awesome/themes/main/" .. theme_name .. ".lua")
+beautiful.init(home_dir .. "/.config/awesome/theme/" .. theme_name .. ".lua")
 
 terminal = "urxvt"
 editor = os.getenv("EDITOR") or "vim"
@@ -508,4 +509,4 @@ end)
 client.connect_signal("focus", function(c) c.border_color = beautiful.border_focus end)
 client.connect_signal("unfocus", function(c) c.border_color = beautiful.border_normal end)
 
-awful.util.spawn_with_shell("~/.config/awesome/autorun.sh")
+awful.util.spawn_with_shell(home_dir .. "/.config/awesome/autorun.sh")

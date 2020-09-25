@@ -34,7 +34,7 @@ theme.fg_urgent     = colors.white
 theme.fg_minimize   = colors.gray
 
 theme.useless_gap   = dpi(0)
-theme.border_width  = 2
+theme.border_width  = 1
 theme.border_normal = colors.black
 theme.border_focus  = colors.white
 theme.border_marked = colors.cyan
@@ -42,15 +42,6 @@ theme.border_marked = colors.cyan
 theme.taglist_bg_focus = colors.white
 theme.taglist_fg_focus = colors.black
 
--- taglist_[bg|fg]_[focus|urgent|occupied|empty|volatile]
--- tasklist_[bg|fg]_[focus|urgent]
--- titlebar_[bg|fg]_[normal|focus]
--- tooltip_[font|opacity|fg_color|bg_color|border_width|border_color]
--- mouse_finder_[color|timeout|animate_timeout|radius|factor]
--- prompt_[fg|bg|fg_cursor|bg_cursor|font]
--- hotkeys_[bg|fg|border_width|border_color|shape|opacity|modifiers_fg|label_bg|label_fg|group_margin|font|description_font]
-
--- Generate taglist squares:
 local taglist_square_size = dpi(4)
 theme.taglist_squares_sel = theme_assets.taglist_squares_sel(
     taglist_square_size, theme.fg_normal
@@ -63,9 +54,6 @@ theme.menu_submenu_icon = themes_path.."default/submenu.png"
 theme.menu_height = dpi(15)
 theme.menu_width  = dpi(100)
 
-theme.wallpaper = "/home/jsiples/.config/awesome/themes/desktop/background.png"
-
--- layout icons
 theme.layout_fairh = themes_path.."default/layouts/fairhw.png"
 theme.layout_fairv = themes_path.."default/layouts/fairvw.png"
 theme.layout_floating  = themes_path.."default/layouts/floatingw.png"
@@ -83,7 +71,6 @@ theme.layout_cornerne = themes_path.."default/layouts/cornernew.png"
 theme.layout_cornersw = themes_path.."default/layouts/cornersww.png"
 theme.layout_cornerse = themes_path.."default/layouts/cornersew.png"
 
--- Generate Awesome icon:
 theme.awesome_icon = theme_assets.awesome_icon(
     theme.menu_height, theme.bg_focus, theme.fg_focus
 )
