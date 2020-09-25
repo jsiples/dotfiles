@@ -72,8 +72,9 @@ menubar.utils.terminal = terminal
 public_ip = http.request("http://ipaddr.io/ip")
 mypublicip = wibox.widget.textbox(public_ip .. " |")
 
-mytextclock = wibox.widget.textclock(" %d.%m.%Y | %H:%M MT ")
-myzuluclock = wibox.widget.textclock("| %H:%M UTC |", 60, "Z")
+mytimezone = os.date("%Z")
+mytextclock = wibox.widget.textclock(" %d.%m.%Y | %H:%M " .. mytimezone .. " |")
+myzuluclock = wibox.widget.textclock(" %H:%M UTC |", 60, "Z")
 
 local taglist_buttons = gears.table.join(
                     awful.button({ }, 1, function(t) t:view_only() end),
