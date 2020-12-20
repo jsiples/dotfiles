@@ -40,7 +40,7 @@ prompt_context() {
 }
 
 prompt_host() {
-  prompt_segment white 15 "%m"
+  prompt_segment white black "%m"
 }
 
 prompt_git() {

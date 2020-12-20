@@ -16,9 +16,9 @@ set cursorline
 " indentation
 set autoindent
 set smartindent
-set tabstop=2
-set softtabstop=2
-set shiftwidth=2
+set tabstop=4
+set softtabstop=4
+set shiftwidth=4
 set expandtab
 
 " colors / theme
@@ -32,3 +32,5 @@ let g:airline_theme='dark'
 
 " syntax
 let g:javascript_plugin_jsdoc = 1
+
+autocmd FileType json setlocal shiftwidth=2 softtabstop=2 tabstop=4 expandtab
