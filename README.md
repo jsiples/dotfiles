@@ -4,7 +4,7 @@
 
 **Link custom zsh theme**
 
-`ln -s ~/.zsh/siples.zsh-theme ~/.zsh/oh-my-zsh/custom/themes/.`
+`ln -s dotfiles/siples.zsh-theme ~/.zsh/oh-my-zsh/custom/themes/.`
 
 ---
 
