@@ -33,4 +33,4 @@ let g:airline_theme='dark'
 " syntax
 let g:javascript_plugin_jsdoc = 1
 
-autocmd FileType json setlocal shiftwidth=2 softtabstop=2 tabstop=4 expandtab
+autocmd FileType json,css,javascript setlocal shiftwidth=2 softtabstop=2 tabstop=2 expandtab

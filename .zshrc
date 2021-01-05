@@ -4,11 +4,15 @@ plugins=(git git-extras vi-mode docker systemd docker-compose npm python yarn vi
 source $ZSH/oh-my-zsh.sh
 typeset -aHg AGNOSTER_PROMPT_SEGMENTS=(prompt_status prompt_context prompt_virtualenv prompt_dir prompt_end)
 
-path+=($HOME"/bin")
-export PATH
-
 alias ll="ls -lsa"
-alias screenshot="import -window root ~/screenshot.png"
-alias mixer="ncpamixer"
 alias spotify="ncspot"
 
+case `uname` in
+    Darwin)
+        export PATH=/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Library/Apple/usr/bin:/Library/Frameworks/Mono.framework/Versions/Current/Commands:/Users/jsiples/bin
+    ;;
+    Linux)
+        alias mixer="ncpamixer"
+        alias screenshot="import -window root ~/screenshot.png"
+    ;;
+esac
