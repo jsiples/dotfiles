@@ -69,7 +69,7 @@ mylauncher = awful.widget.launcher({ image = beautiful.awesome_icon,
 
 menubar.utils.terminal = terminal
 
--- split out and add timer
+-- currently errors on first login due to no inet connection, will eventually fix
 public_ip = http.request("http://ipaddr.io/ip")
 mypublicip = wibox.widget.textbox(public_ip .. " |")
 
