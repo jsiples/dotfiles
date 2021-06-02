@@ -1,0 +1,9 @@
+[user]
+	email = 972182+jsiples@users.noreply.github.com
+	name = Justin Siples
+[core]
+	editor = vim
+[pull]
+	rebase = true
+[fetch]
+	prune = true
