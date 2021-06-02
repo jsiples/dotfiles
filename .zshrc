@@ -9,7 +9,7 @@ alias spotify="ncspot"
 
 case `uname` in
     Darwin)
-        export PATH=/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Library/Apple/usr/bin:/Library/Frameworks/Mono.framework/Versions/Current/Commands:/Users/jsiples/bin
+        export PATH=/opt/homebrew/bin:/opt/homebrew/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Library/Apple/usr/bin:/Library/Frameworks/Mono.framework/Versions/Current/Commands:/Users/jsiples/bin
     ;;
     Linux)
         alias mixer="ncpamixer"
