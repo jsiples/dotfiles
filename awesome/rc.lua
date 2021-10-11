@@ -70,7 +70,7 @@ mylauncher = awful.widget.launcher({ image = beautiful.awesome_icon,
 menubar.utils.terminal = terminal
 
 -- currently errors on first login due to no inet connection, will eventually fix
-public_ip = http.request("http://ipaddr.io/ip")
+public_ip = "0.0.0.0"
 mypublicip = wibox.widget.textbox(public_ip .. " |")
 
 mytimezone = os.date("%Z")
