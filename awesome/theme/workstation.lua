@@ -20,7 +20,7 @@ colors.lightgray    = "#afafaf"
 
 local theme = {}
 
-theme.font          = "Hack 8"
+theme.font          = "Hack 10"
 
 theme.bg_normal     = colors.darkgray
 theme.bg_focus      = colors.darkgray
@@ -63,7 +63,7 @@ theme.menu_submenu_icon = themes_path.."default/submenu.png"
 theme.menu_height = dpi(15)
 theme.menu_width  = dpi(100)
 
-theme.wallpaper = "/home/jsiples/.config/awesome/themes/desktop/background.png"
+-- theme.wallpaper = "/home/jsiples/Pictures/wallpaper.png"
 
 -- layout icons
 theme.layout_fairh = themes_path.."default/layouts/fairhw.png"
