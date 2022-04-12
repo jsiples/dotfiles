@@ -16,3 +16,6 @@ case `uname` in
         alias screenshot="import -window root ~/screenshot.png"
     ;;
 esac
+
+export CLICOLOR=1
+export LSCOLORS=exfxcxdxbxegedabagacad
